@@ -57,4 +57,5 @@ namespace CopierZadanie
         void Fax(in IDocument document, string number);
     }
 
+
 }
